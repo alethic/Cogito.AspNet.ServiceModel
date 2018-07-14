@@ -2,7 +2,7 @@
 using System.ServiceModel;
 using System.ServiceModel.Activation;
 
-namespace Cogito.ServiceModel.Web.Routing
+namespace Cogito.AspNet.ServiceModel.Routing
 {
 
     /// <summary>

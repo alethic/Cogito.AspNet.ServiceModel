@@ -4,7 +4,7 @@ using System.ServiceModel.Activation;
 using System.Web;
 using System.Web.Routing;
 
-namespace Cogito.ServiceModel.Web.Routing
+namespace Cogito.AspNet.ServiceModel.Routing
 {
 
     /// <summary>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cogito.ServiceModel.Web.Routing
+namespace Cogito.AspNet.ServiceModel.Routing
 {
 
     /// <summary>

@@ -5,7 +5,7 @@ using System.ServiceModel.Channels;
 using System.ServiceModel.Description;
 using System.ServiceModel.Dispatcher;
 
-namespace Cogito.ServiceModel.Web.Routing
+namespace Cogito.AspNet.ServiceModel.Routing
 {
 
     /// <summary>
