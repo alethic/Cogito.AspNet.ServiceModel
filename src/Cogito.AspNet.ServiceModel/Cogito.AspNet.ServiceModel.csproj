@@ -2,7 +2,6 @@
 
     <PropertyGroup>
         <TargetFramework>net462</TargetFramework>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Version>0.0.1</Version>
         <Authors>Jerome Haltom</Authors>
         <Company />
